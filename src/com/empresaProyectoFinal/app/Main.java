@@ -4,13 +4,16 @@
  */
 package com.empresaProyectoFinal.app;
 
+import com.empresaProyectoFinal.ui.JLoginFrame;
+
 /**
  *
  * @author will
  */
 public class Main {
     public static void main(String[] args) {
-        
+        JLoginFrame loginFrame = new JLoginFrame();
+        loginFrame.setVisible(true);
     }
     
 }

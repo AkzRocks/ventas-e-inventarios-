@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/will/OneDrive/Documentos/NetBeansProjects/ProyectoFinal/src/com/empresaProyectoFinal/app/Main.java</file>
+            <file>file:/home/akz/Documentos/ProyectosProgramacionJava/ventas-e-inventarios-/src/com/empresaProyectoFinal/ui/JLoginFrame.java</file>
+            <file>file:/home/akz/Documentos/ProyectosProgramacionJava/ventas-e-inventarios-/src/com/empresaProyectoFinal/utils/Permisos.java</file>
+            <file>file:/home/akz/Documentos/ProyectosProgramacionJava/ventas-e-inventarios-/src/com/empresaProyectoFinal/models/Usuario.java</file>
+            <file>file:/home/akz/Documentos/ProyectosProgramacionJava/ventas-e-inventarios-/src/com/empresaProyectoFinal/service/AuthService.java</file>
         </group>
     </open-files>
 </project-private>

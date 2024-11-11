@@ -9,5 +9,8 @@ package com.empresaProyectoFinal.utils;
  * @author will
  */
 public enum Permisos {
+    ADMIN,
+    VENTAS,
+    INVENTARIO
     
 }
