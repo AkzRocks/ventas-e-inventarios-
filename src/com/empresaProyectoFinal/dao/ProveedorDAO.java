@@ -8,6 +8,6 @@ package com.empresaProyectoFinal.dao;
  *
  * @author will
  */
-public class ProductoDAO {
+public class ProveedorDAO {
     
 }
